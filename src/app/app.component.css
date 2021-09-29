@@ -1,0 +1,9 @@
+.app header {
+  width: 100%;
+  text-align: center;
+  background-color: #333;
+  padding: 10px 15px;
+}
+.title {
+  color: #fff;
+}
